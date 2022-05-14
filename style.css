@@ -1,0 +1,14 @@
+.start {
+  margin: 5rem 5rem;
+}
+.image {
+  width: 50%;
+  float: right;
+  margin: 2rem;
+  border-radius: 10px;
+  /* box-shadow: 5px 0 2px 5px; */
+}
+.text {
+  text-align: justify;
+  font-size: 1.6rem;
+}
